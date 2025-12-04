@@ -29,7 +29,7 @@ This project includes both the **Java source code** and a **Windows executable (
 ## How to Run
 
 ### Using the Executable
-1. Navigate to the folder containing `Hangman.exe`.  
+1. Download the latest version from releases. 
 2. Double-click `Hangman.exe` to launch the game.  
 3. Follow the on-screen instructions.  
 
