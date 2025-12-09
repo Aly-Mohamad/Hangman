@@ -3,6 +3,12 @@ import java.awt.*;
 
 class HangmanPanel extends JPanel {
     private int mistakes;
+
+    public HangmanPanel() {
+        setPreferredSize(new Dimension(400, 400));
+        setBackground(new Color(230, 240, 250));
+    }
+
     public void setMistakes(int mistakes) {
         this.mistakes = mistakes;
         repaint();
